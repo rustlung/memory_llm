@@ -1,0 +1,21 @@
+# Telegram Bot Token (получить у @BotFather)
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+
+# OpenAI API Key (получить на platform.openai.com)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# OpenAI Models
+OPENAI_CHAT_MODEL=gpt-4o
+OPENAI_EMBED_MODEL=text-embedding-3-small
+
+# Paths
+DB_PATH=data/memory.db
+COMPANY_TXT_PATH=data/company.txt
+
+# RAG Parameters
+TOP_K=3
+RAG_THRESHOLD=0.70
+
+# Logging
+DEBUG=0
+LOG_LEVEL=INFO

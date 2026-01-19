@@ -1,0 +1,12 @@
+# Telegram Bot Framework
+aiogram==3.13.1
+
+# OpenAI API Client (>=2.15.0 recommended for Python 3.12+)
+openai>=1.54.4
+
+# Environment Variables Management
+python-dotenv==1.0.1
+
+# Numerical Operations (for Python 3.12+)
+# For Python 3.11 use: numpy>=1.24.0,<2.0.0
+numpy>=2.0.0
